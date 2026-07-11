@@ -23,12 +23,12 @@ class Solution(object):
 
 
     # python built in frequency time complexity o(n)
-        from collections import Counter 
-        n=Counter(s)
-        y=Counter(t)
-        if n==y:
-            return True
-        return False
+        # from collections import Counter 
+        # n=Counter(s)
+        # y=Counter(t)
+        # if n==y:
+        #     return True
+        # return False
 
 
     # sorting technique    
@@ -43,14 +43,14 @@ class Solution(object):
 
 
     # hashmap    
-        # hashmap={}
+        hashmap={}
 
-        # for ch in s:
+        for ch in s:
             
-        #     hashmap[ch]=hashmap.get(ch,0)+1
-        # for ch in t:
-        #     hashmap[ch]=hashmap.get(ch,0)-1
-        # for value in hashmap.values():
-        #     if value!=0:
-        #         return False
-        # return True
+            hashmap[ch]=hashmap.get(ch,0)+1
+        for ch in t:
+            hashmap[ch]=hashmap.get(ch,0)-1
+        for value in hashmap.values():
+            if value!=0:
+                return False
+        return True
