@@ -21,11 +21,19 @@ class Solution(object):
 
 
     # hashmap optimal sol time complexity (o(nklogk))
-        hashmap={}
+        # hashmap={}
+        # for word in strs:
+        #     key=tuple(sorted(word))
+        #     if key not in hashmap:
+        #         hashmap[key]=[word]
+        #     else:
+        #         hashmap[key].append(word)
+        # return list(hashmap.values())
+
+    # better pythonic way using defaultdict
+        from collections import defaultdict
+        hashmap=defaultdict(list)
         for word in strs:
-            key="".join(sorted(word))
-            if key not in hashmap:
-                hashmap[key]=[word]
-            else:
-                hashmap[key].append(word)
-        return hashmap.values()
+            key=tuple(sorted(word))
+            hashmap[key].append(word)
+        return list(hashmap.values())
