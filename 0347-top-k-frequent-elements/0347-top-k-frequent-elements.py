@@ -21,17 +21,32 @@ class Solution(object):
     
     # heap with time complexity- o(n log k)
 
-        import heapq
+        # import heapq
+        # hashmap={}
+        # heap=[]
+        # for num in nums:
+        #     hashmap[num]=hashmap.get(num,0)+1
+        # for num, freq in hashmap.items():
+        #     heapq.heappush(heap, (freq,num))
+        #     if len(heap)>k:
+        #         heapq.heappop(heap)
+        # result=[]
+        # for freq, num in heap:
+
+        #     result.append(num)
+        # return result
+
+    # bucket sort - time complexity o(n)
+
         hashmap={}
-        heap=[]
         for num in nums:
             hashmap[num]=hashmap.get(num,0)+1
-        for num, freq in hashmap.items():
-            heapq.heappush(heap, (freq,num))
-            if len(heap)>k:
-                heapq.heappop(heap)
+        bucket= [[] for _ in range(len(nums)+1)]
+        for num,freq in hashmap.items():
+            bucket[freq].append(num)
         result=[]
-        for freq, num in heap:
-
-            result.append(num)
-        return result
+        for i in range(len(bucket)-1,-1,-1):
+            for num in bucket[i]:
+                result.append(num)
+                if len(result)==k:
+                    return result
