@@ -5,15 +5,33 @@ class Solution(object):
         :type k: int
         :rtype: List[int]
         """
+    #hashmap + sorting time complexity - o(n+ m log m)
+        # hashmap={}
+        # for num in nums:
+            
+        #     hashmap[num]=hashmap.get(num,0)+1
+            
+        # sorted_items= sorted(hashmap.items(), key= lambda x:x[1],reverse=True)
+        # result=[]
+
+        # for num,freq in sorted_items[:k]:
+        #     result.append(num)
+
+        # return result
+    
+    # heap with time complexity- o(n log k)
+
+        import heapq
         hashmap={}
+        heap=[]
         for num in nums:
-            
             hashmap[num]=hashmap.get(num,0)+1
-            
-        sorted_items= sorted(hashmap.items(), key= lambda x:x[1],reverse=True)
+        for num, freq in hashmap.items():
+            heapq.heappush(heap, (freq,num))
+            if len(heap)>k:
+                heapq.heappop(heap)
         result=[]
+        for freq, num in heap:
 
-        for num,freq in sorted_items[:k]:
             result.append(num)
-
         return result
