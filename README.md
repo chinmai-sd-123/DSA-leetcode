@@ -6,6 +6,7 @@ A collection of LeetCode questions
 | ------- |
 | [0049-group-anagrams](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0169-majority-element) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions
 | ------- |
 | [0049-group-anagrams](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0242-valid-anagram) |
@@ -85,4 +87,5 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
