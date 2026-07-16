@@ -39,14 +39,30 @@ class Solution(object):
         # return nums
 
     #better solution with time complexity - o(n)
-        result=[]
-        for i in range(3):
-            count=0
-            for num in nums:
-                if num==i:
-                    count+=1
-            while count>0:
-                result.append(i)
-                count-=1
-        nums[:]=result
+        # result=[]
+        # for i in range(3):
+        #     count=0
+        #     for num in nums:
+        #         if num==i:
+        #             count+=1
+        #     while count>0:
+        #         result.append(i)
+        #         count-=1
+        # nums[:]=result
+        # return nums
+
+    # dutch national flag algo - time complexity - o(n) and space o(1)
+
+        low=mid=0
+        high=len(nums)-1
+        while mid<=high:
+            if nums[mid]==0:
+                nums[low], nums[mid]= nums[mid], nums[low]
+                mid+=1
+                low+=1
+            elif nums[mid]==1:
+                mid+=1
+            else:
+                nums[mid], nums[high]=nums[high],nums[mid]
+                high-=1
         return nums
