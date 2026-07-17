@@ -39,6 +39,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
@@ -88,4 +89,5 @@ A collection of LeetCode questions
 | ------- |
 | [0075-sort-colors](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
