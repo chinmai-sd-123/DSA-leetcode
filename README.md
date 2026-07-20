@@ -16,6 +16,7 @@ A collection of LeetCode questions
 | [0217-contains-duplicate](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions
 | [0088-merge-sorted-array](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
