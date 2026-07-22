@@ -29,6 +29,7 @@ A collection of LeetCode questions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0217-contains-duplicate) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0567-permutation-in-string) |
