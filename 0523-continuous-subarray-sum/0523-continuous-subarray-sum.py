@@ -16,7 +16,8 @@ class Solution(object):
         #             return True
 
         # return False
-
+        
+    # optimal sum - time O(n)
         hashmap={0:-1}
         prefix=0
         for i in range(len(nums)):
