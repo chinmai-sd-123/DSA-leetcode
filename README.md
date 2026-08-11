@@ -15,6 +15,7 @@ A collection of LeetCode questions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions
 | [0042-trapping-rain-water](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0152-maximum-product-subarray) |
 ## Stack
 |  |
 | ------- |
