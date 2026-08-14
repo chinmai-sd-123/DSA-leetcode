@@ -18,6 +18,7 @@ A collection of LeetCode questions
 | [0152-maximum-product-subarray](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0238-product-of-array-except-self) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Binary Search
@@ -132,6 +134,7 @@ A collection of LeetCode questions
 | [0088-merge-sorted-array](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0567-permutation-in-string) |
 ## Greedy
