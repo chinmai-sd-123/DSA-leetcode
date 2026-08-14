@@ -4,6 +4,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: None Do not return anything, modify nums in-place instead.
         """
+    # optimal - O(n) and space -O(1)
         #find pivot from right
         pivot=-1
         for i in range(len(nums)-2,-1,-1):
