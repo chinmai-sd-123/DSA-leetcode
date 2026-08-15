@@ -11,6 +11,7 @@ A collection of LeetCode questions
 | [0042-trapping-rain-water](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0169-majority-element) |
@@ -169,4 +171,8 @@ A collection of LeetCode questions
 | [0567-permutation-in-string](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
