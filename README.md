@@ -66,6 +66,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0125-valid-palindrome) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -175,4 +177,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0073-set-matrix-zeroes) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
