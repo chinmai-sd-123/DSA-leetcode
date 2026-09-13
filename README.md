@@ -13,6 +13,7 @@ A collection of LeetCode questions
 | [0053-maximum-subarray](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions
 | ------- |
 | [0020-valid-parentheses](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0739-daily-temperatures) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0739-daily-temperatures) |
 ## Sliding Window
 |  |
@@ -192,4 +195,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0155-min-stack) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
