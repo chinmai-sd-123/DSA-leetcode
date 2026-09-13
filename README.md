@@ -31,6 +31,7 @@ A collection of LeetCode questions
 | [0347-top-k-frequent-elements](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0735-asteroid-collision](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions
 | [0084-largest-rectangle-in-histogram](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0155-min-stack) |
+| [0735-asteroid-collision](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -199,4 +201,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
