@@ -29,6 +29,7 @@ A collection of LeetCode questions
 | [0268-missing-number](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0735-asteroid-collision) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions
 | [0347-top-k-frequent-elements](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0567-permutation-in-string) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions
 | [0150-evaluate-reverse-polish-notation](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0394-decode-string) |
+| [0496-next-greater-element-i](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
@@ -175,6 +178,7 @@ A collection of LeetCode questions
 | ------- |
 | [0042-trapping-rain-water](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0739-daily-temperatures) |
 ## Sliding Window
 |  |
