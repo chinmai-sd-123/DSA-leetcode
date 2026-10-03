@@ -169,6 +169,7 @@ A collection of LeetCode questions
 | [0084-largest-rectangle-in-histogram](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0735-asteroid-collision) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -215,4 +217,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0394-decode-string) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
