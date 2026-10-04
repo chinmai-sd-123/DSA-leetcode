@@ -25,9 +25,10 @@ class Solution(object):
        
         while low<=high:
             mid=(low+high)//2
-            if matrix[mid//len(matrix[0])][mid%len(matrix[0])]==target:
+            x=matrix[mid // len(matrix[0])][mid % len(matrix[0])]
+            if x==target:
                 return True
-            elif target>matrix[mid // len(matrix[0])][mid % len(matrix[0])]:
+            elif target>x:
                 low=mid+1
             else:
                 high=mid-1
