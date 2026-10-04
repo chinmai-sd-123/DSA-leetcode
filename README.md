@@ -12,6 +12,7 @@ A collection of LeetCode questions
 | [0049-group-anagrams](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0088-merge-sorted-array) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0268-missing-number) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Bracket Sequences
 |  |
 | ------- |
