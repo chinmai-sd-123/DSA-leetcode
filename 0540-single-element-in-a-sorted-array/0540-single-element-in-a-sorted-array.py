@@ -23,7 +23,23 @@ class Solution:
         # s_2=sum(set_s)*2
         # return s_2-s
 
-        result=0
-        for num in nums:
-            result^=num
-        return result
+        # result=0
+        # for num in nums:
+        #     result^=num
+        # return result
+
+        l=0
+        h=len(nums)-1
+        while l<h:
+            m=(l+h)//2
+            if m%2==1:
+                m-=1
+
+            if nums[m]==nums[m+1]:
+                l=m+2
+            else:
+                h=m
+        return nums[l]
+
+
+            
