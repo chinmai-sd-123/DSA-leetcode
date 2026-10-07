@@ -1,0 +1,22 @@
+import heapq
+from operator import itemgetter
+def minMeetingRooms(intervals):
+    # Write your solution here
+    intervals.sort(key=itemgetter(0))
+    heap=[]
+    max_count=0
+    for meet in intervals:
+        if heap and meet[0]>=heap[0]:
+            heapq.heappop(heap)
+        heapq.heappush(heap, meet[1])
+        max_count=max(max_count,len(heap))
+        
+    return max_count
+        
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+# Test cases
+intervals = [[0,30],[5,10],[15,20]]
+
+result = minMeetingRooms(intervals)
+
+print(result)
