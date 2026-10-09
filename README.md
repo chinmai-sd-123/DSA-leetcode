@@ -81,6 +81,7 @@ A collection of LeetCode questions
 | [0217-contains-duplicate](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## String
@@ -110,6 +111,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/1046-last-stone-weight) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
@@ -243,6 +246,7 @@ A collection of LeetCode questions
 | [0155-min-stack](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0981-time-based-key-value-store](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0981-time-based-key-value-store) |
 ## Range Minimum/Maximum Query
 |  |
@@ -269,4 +273,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
