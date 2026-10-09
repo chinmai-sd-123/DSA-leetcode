@@ -37,6 +37,7 @@ A collection of LeetCode questions
 | [0283-move-zeroes](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0496-next-greater-element-i) |
+| [0502-ipo](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions
 | [0268-missing-number](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## String
@@ -117,6 +119,7 @@ A collection of LeetCode questions
 | [0215-kth-largest-element-in-an-array](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/1046-last-stone-weight) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0011-container-with-most-water) |
+| [0502-ipo](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0502-ipo) |
 ## Dynamic Programming
 |  |
 | ------- |
