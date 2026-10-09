@@ -40,6 +40,7 @@ A collection of LeetCode questions
 | [0523-continuous-subarray-sum](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0692-top-k-frequent-words](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0739-daily-temperatures) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions
 | [0523-continuous-subarray-sum](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0567-permutation-in-string) |
+| [0692-top-k-frequent-words](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0692-top-k-frequent-words) |
 | [0904-fruit-into-baskets](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0904-fruit-into-baskets) |
 | [0981-time-based-key-value-store](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0981-time-based-key-value-store) |
 ## Sorting
@@ -83,6 +85,7 @@ A collection of LeetCode questions
 | [0268-missing-number](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## String
 |  |
@@ -97,6 +100,7 @@ A collection of LeetCode questions
 | [0424-longest-repeating-character-replacement](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0567-permutation-in-string) |
+| [0692-top-k-frequent-words](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0692-top-k-frequent-words) |
 | [0981-time-based-key-value-store](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0981-time-based-key-value-store) |
 ## Divide and Conquer
 |  |
@@ -113,17 +117,20 @@ A collection of LeetCode questions
 | [0215-kth-largest-element-in-an-array](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0692-top-k-frequent-words) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
@@ -277,4 +284,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0295-find-median-from-data-stream) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
