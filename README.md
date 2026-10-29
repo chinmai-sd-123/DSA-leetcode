@@ -37,6 +37,7 @@ A collection of LeetCode questions
 | [0268-missing-number](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions
 | [0268-missing-number](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0502-ipo) |
 ## Dynamic Programming
 |  |
@@ -212,6 +215,7 @@ A collection of LeetCode questions
 | [0053-maximum-subarray](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0152-maximum-product-subarray) |
+| [0435-non-overlapping-intervals](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Stack
 |  |
 | ------- |
