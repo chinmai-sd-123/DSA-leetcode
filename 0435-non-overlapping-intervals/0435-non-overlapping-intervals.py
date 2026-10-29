@@ -14,6 +14,8 @@ class Solution:
         # return solve(0,-1)
 
         #greedy appraoch
+        if not intervals:
+            return 0
         intervals.sort(key= lambda x: x[1])
         removals= 0
         prev_end= intervals[0][1]
