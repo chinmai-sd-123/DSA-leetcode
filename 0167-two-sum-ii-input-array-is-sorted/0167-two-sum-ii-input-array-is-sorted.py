@@ -1,25 +1,19 @@
-class Solution(object):
-    def twoSum(self, numbers, target):
-        """
-        :type numbers: List[int]
-        :type target: int
-        :rtype: List[int]
-        """
+class Solution:
+    def twoSum(self, numbers: list[int], target: int) -> list[int]:
         # for i in range(len(numbers)):
-        #     for j in range(i+1, len(numbers)):
+        #     for j in range(i+1,len(numbers)):
         #         if numbers[i]+numbers[j]==target:
         #             return [i+1,j+1]
-    # will use two pointers whihc gives us time complexity o(n) with space O(1)
-        left = 0
-        right= len(numbers)-1
 
-        while left < right:
-            current_sum=numbers[left]+numbers[right]
-            if current_sum==target:
-                return[left+1,right+1]
-            elif current_sum> target:
-                right-=1
-
-            else :
-                left+=1 
-            
+        l, r= 0, len(numbers)-1
+        while l<r:
+            current_sum=numbers[l]+numbers[r]
+            if target> current_sum:
+                l+=1
+                continue
+            elif target<current_sum:
+                r-=1
+                continue
+            else:
+                return [l+1,r+1]
+        return []
