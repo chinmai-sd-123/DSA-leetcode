@@ -51,6 +51,7 @@ A collection of LeetCode questions
 | [0875-koko-eating-bananas](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0904-fruit-into-baskets) |
 | [0973-k-closest-points-to-origin](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [0977-squares-of-a-sorted-array](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/1046-last-stone-weight) |
 ## Hash Table
@@ -94,6 +95,7 @@ A collection of LeetCode questions
 | [0502-ipo](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [0977-squares-of-a-sorted-array](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions
 | [0283-move-zeroes](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0567-permutation-in-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
