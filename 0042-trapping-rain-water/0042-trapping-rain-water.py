@@ -1,41 +1,21 @@
-class Solution(object):
-    def trap(self, height):
-        """
-        :type height: List[int]
-        :rtype: int
-        """
-    #brute force timw- o(n^2) and space- O(n)
-        # total=0
+class Solution:
+    def trap(self, height: list[int]) -> int:
+        # count=0
         # for i in range(len(height)):
-        #     leftMax=0
-        #     rightMax=0
+        #     max_l= max(height[:i+1])
+        #     max_r= max(height[i:])
+        #     water=min(max_l,max_r)-height[i]
+        #     count+=water
+        # return count
 
-        #     for j in range(i+1):
-        #         leftMax=max(leftMax, height[j])
-        #     for j in range(i,len(height)):
-        #         rightMax=max(rightMax, height[j])
-
-        #     water= min(rightMax, leftMax)-height[i]
-        #     total+=water
-        # return total
-
-    # optimal sol - space - O(1)
-
-        if not height: return 0
-        total=0
-        l,r = 0, len(height)-1
-        leftMax,rightMax= height[l], height[r]
-
-        while l<r:  
-            if leftMax < rightMax:
+        l, r, l_max, r_max,total = 0, len(height)-1, 0, 0 , 0
+        while l<r:
+            if height[l]<height[r]:
+                l_max=max(l_max, height[l])
+                total+=l_max-height[l]
                 l+=1
-                leftMax=max(leftMax, height[l])
-                total+=leftMax- height[l]
-
             else:
+                r_max=max(r_max, height[r])
+                total+=r_max-height[r]
                 r-=1
-                rightMax=max(rightMax, height[r])
-                total+=rightMax- height[r]
         return total
-
-    
