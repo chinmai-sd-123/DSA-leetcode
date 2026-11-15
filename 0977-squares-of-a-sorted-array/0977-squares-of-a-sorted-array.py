@@ -5,17 +5,17 @@ class Solution:
         #     num.append(pow(nums[i],2))
         # num.sort()
         # return num
-        pos=len(nums)-1
+        p=len(nums)-1
         array=[0]*len(nums)
         l, r= 0, len(nums)-1
         while l<=r:
             if abs(nums[l])<abs(nums[r]):
-                array[pos]=nums[r]**2
+                array[p]=nums[r]**2
                 r-=1
-                pos-=1
+                p-=1
             else:
-                array[pos]=nums[l]**2
+                array[p]=nums[l]**2
                 l+=1
-                pos-=1
+                p-=1
 
         return array
