@@ -49,6 +49,7 @@ A collection of LeetCode questions
 | [0735-asteroid-collision](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0904-fruit-into-baskets) |
 | [0973-k-closest-points-to-origin](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions
 | [0435-non-overlapping-intervals](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0692-top-k-frequent-words) |
+| [0881-boats-to-save-people](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## String
@@ -205,6 +207,7 @@ A collection of LeetCode questions
 | [0283-move-zeroes](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0567-permutation-in-string) |
+| [0881-boats-to-save-people](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
@@ -212,6 +215,7 @@ A collection of LeetCode questions
 | [0011-container-with-most-water](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0502-ipo) |
+| [0881-boats-to-save-people](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0881-boats-to-save-people) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -302,4 +306,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0692-top-k-frequent-words) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/chinmai-sd-123/DSA-leetcode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
