@@ -1,42 +1,32 @@
-class Solution(object):
-    def lengthOfLongestSubstring(self, s):
-        """
-        :type s: str
-        :rtype: int
-        """
-
-    #brute force solution - time - o(n^2)
-        # maximum=0
+class Solution:
+    def lengthOfLongestSubstring(self, s: str) -> int:
+        #store the max_length\
+        # max_length=0
+        
         # for i in range(len(s)):
-        #     substring=[]
-        #     for j in range(i,len(s)):
-        #         if s[j] not in substring:
-        #             substring.append(s[j])
-        #             maximum=max(maximum,len(substring))
-        #         else:
+            
+        #     seen=set()
+        #     seen=({s[i]})
+        #     length=1
+        #     for j in range(i+1,len(s)):
+        #         if s[j] in seen:
         #             break
-    
-        # return maximum
+        #         seen.add(s[j])
+        #         length+=1
+        #     max_length=max(length, max_length)
 
-        # l=0
-        # maxcount=0
-        # for r in range(l,len(s)):
-        #     count=0
-        #     if s[r]==s[l]:
-        #         left=right
-        #         count=1
-        #     else:
-        #         count+=1
-        #     maxcount=max(maxcount,count)
-    # sliding window i time -O(n) 
-        window=set()
+        # return max_length
+
+        # optimal
+
         l=0
-        maximum=0
-        for r in range(len(s)):
-            while s[r] in window:
-                window.remove(s[l])
-                l+=1
-            window.add(s[r])
-            maximum=max(maximum, r-l+1)
+        max_length=0
+        seen=set()
 
-        return maximum
+        for r in range(len(s)):
+            while s[r] in seen:
+                seen.remove(s[l])
+                l+=1
+            seen.add(s[r])
+            max_length=max(max_length, r-l+1)
+        return max_length
