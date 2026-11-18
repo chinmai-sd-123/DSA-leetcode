@@ -1,41 +1,30 @@
-class Solution(object):
-    def characterReplacement(self, s, k):
-        """
-        :type s: str
-        :type k: int
-        :rtype: int
-        """
-    # brute force sol- time - o(n^2)
-       
-        # maximum=0
+class Solution:
+    def characterReplacement(self, s: str, k: int) -> int:
+        # max_l=0
         # for i in range(len(s)):
-        #     hashmap={}
-        #     for j in range(i,len(s)):
-        #         hashmap[s[j]]=hashmap.get(s[j],0)+1
+        #     freq={}
+        #     max_freq=0
+        #     for j in range(i, len(s)):
+        #         window= j-i+1
+        #         freq[s[j]]=freq.get(s[j],0)+1
+        #         max_freq= max(max_freq, freq[s[j]])
 
-        #         length=j-i+1
-        #         maxFreq=max(hashmap.values())
-        #         replacements=length-maxFreq
+        #             max_l=max(max_l, window)
 
-        #         if replacements <=k:
-        #             maximum=max(maximum, length)
-        #         else:
-        #             break
-        # return maximum
-        
-    #optimal using sliding window- o(n)
+        # return max_l
+
         l=0
-        maximum=0
-        hashmap={}
-        maxFreq=0
+        max_l=0
+        max_freq=0
+        freq=[0]*26
         for r in range(len(s)):
-            hashmap[s[r]]=hashmap.get(s[r],0)+1
-    
-            maxFreq=max(maxFreq, hashmap[s[r]])
-            
-
-            while (r-l+1)- maxFreq>k:
-                hashmap[s[l]]=hashmap.get(s[l],0)-1
+            idx=ord(s[r])-ord("A")
+            freq[idx]+=1
+            max_freq=max(max_freq, freq[idx])
+            while (r-l+1)-max_freq>k:
+                left_index=ord(s[l])-ord("A")
+                freq[left_index]-=1
                 l+=1
-            maximum=max(maximum,r-l+1)
-        return maximum
+            max_l=max(max_l, r-l+1)
+        return max_l
+
