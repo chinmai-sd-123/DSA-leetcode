@@ -1,38 +1,21 @@
-class Solution(object):
-    def minSubArrayLen(self, target, nums):
-        """
-        :type target: int
-        :type nums: List[int]
-        :rtype: int
-        """
-    #brute force time - o(n^2)
-
-        # minimum= float('inf')
-        
+class Solution:
+    def minSubArrayLen(self, target: int, nums: list[int]) -> int:
+        # minimum=float('inf')
         # for i in range(len(nums)):
-        #     sum=0
+        #     sums=0
         #     for j in range(i,len(nums)):
-        #         sum+=nums[i]
-        #         if sum>= target:
+        #         sums+=nums[j]
+        #         if sums>=target:
         #             minimum=min(minimum,j-i+1)
-        #             break
                     
-        # if minimum==float('inf'):
-        #     return 0
-        # return minimum
-
-    # sliding window - optimal - O(n) and space -O(1)
-
+        # return 0 if minimum==float('inf') else minimum
         l=0
-        sum=0
-        minimum=float('inf')
+        minimum= float('inf')
+        total=0
         for r in range(len(nums)):
-            sum+=nums[r]
-            while sum>=target:
+            total+=nums[r]
+            while total>=target:
                 minimum=min(minimum, r-l+1)
-                sum-=nums[l]
+                total-=nums[l]
                 l+=1
-    
-        if minimum==float('inf'):
-            return 0
-        return minimum
+        return 0 if minimum == float('inf') else minimum
